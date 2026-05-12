@@ -62,15 +62,6 @@ Movies with higher cosine similarity scores are recommended as similar movies.
 
 ---
 
-# 🛠️ Tech Stack
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Fast-API
-
----
 
 # 📊 What I Learned
 
